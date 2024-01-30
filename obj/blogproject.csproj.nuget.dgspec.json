@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MUSI\\source\\repos\\AzureExample\\blogproject\\blogproject\\blogproject.csproj": {}
+    "C:\\Users\\MUSI\\source\\repos\\AzureExample\\blogproject\\blogproject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MUSI\\source\\repos\\AzureExample\\blogproject\\blogproject\\blogproject.csproj": {
+    "C:\\Users\\MUSI\\source\\repos\\AzureExample\\blogproject\\blogproject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MUSI\\source\\repos\\AzureExample\\blogproject\\blogproject\\blogproject.csproj",
+        "projectUniqueName": "C:\\Users\\MUSI\\source\\repos\\AzureExample\\blogproject\\blogproject.csproj",
         "projectName": "blogproject",
-        "projectPath": "C:\\Users\\MUSI\\source\\repos\\AzureExample\\blogproject\\blogproject\\blogproject.csproj",
+        "projectPath": "C:\\Users\\MUSI\\source\\repos\\AzureExample\\blogproject\\blogproject.csproj",
         "packagesPath": "C:\\Users\\MUSI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MUSI\\source\\repos\\AzureExample\\blogproject\\blogproject\\obj\\",
+        "outputPath": "C:\\Users\\MUSI\\source\\repos\\AzureExample\\blogproject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MUSI\\AppData\\Roaming\\NuGet\\NuGet.Config",

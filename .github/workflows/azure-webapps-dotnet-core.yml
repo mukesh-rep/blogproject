@@ -36,7 +36,7 @@ jobs:
       - name: 'Run Azure webapp deploy action using Azure Credentials'
         uses: azure/webapps-deploy@v2
         with: 
-          app-name: testmukesh23423 # Replace with your app name
+          app-name: techworldwithmukesh # Replace with your app name
           package: './blogproject'
       
       - name: logout
